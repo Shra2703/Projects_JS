@@ -10,8 +10,7 @@
 	- repo 🔗: https://github.com/Shra2703/Live-Counter-using-JS
 	- live 🔗: https://shra2703.github.io/Live-Counter-using-JS/
     
--Tempreature Convertor 🌡:
-        
-	- repo 🔗: https://github.com/Shra2703/Temperature-Convertor-using-JS
+- Tempreature Convertor🌡:
+	- repo 🔗: https://github.com/Shra2703/Temperature-Convertor-using-JS	
 	- live 🔗: https://shra2703.github.io/Temperature-Convertor-using-JS/
 
