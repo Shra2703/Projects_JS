@@ -14,3 +14,7 @@
 	- repo 🔗: https://github.com/Shra2703/Temperature-Convertor-using-JS	
 	- live 🔗: https://shra2703.github.io/Temperature-Convertor-using-JS/
 
+- Random Quotes Genrator🔄:
+	- repo 🔗:https://github.com/Shra2703/Random-Quotes-Genrator-in-JS
+	- live 🔗:https://shra2703.github.io/Random-Quotes-Genrator-in-JS/
+
