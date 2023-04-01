@@ -18,3 +18,6 @@
 	- repo 🔗:https://github.com/Shra2703/Random-Quotes-Genrator-in-JS
 	- live 🔗:https://shra2703.github.io/Random-Quotes-Genrator-in-JS/
 
+- Doogle Keep App💻:
+	- repo 🔗:https://github.com/Shra2703/Doogle-Keep-App
+	- live 🔗:https://shra2703.github.io/Doogle-Keep-App/
