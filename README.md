@@ -21,3 +21,7 @@
 - Doogle Keep App💻:
 	- repo 🔗:https://github.com/Shra2703/Doogle-Keep-App
 	- live 🔗:https://shra2703.github.io/Doogle-Keep-App/
+
+- Tic-Tac-Toe:
+	- repo 🔗:https://github.com/Shra2703/JS-Tic-Tac-toe
+	- live 🔗:https://shra2703.github.io/JS-Tic-Tac-toe/
