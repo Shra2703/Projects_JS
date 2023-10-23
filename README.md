@@ -16,19 +16,28 @@
 	- repo 🔗:https://github.com/Shra2703/MovieVel-JS-Movie-Website
 	- live 🔗:https://shra2703.github.io/MovieVel-JS-Movie-Website/
 
+- To-Do list in JS:
+	- repo 🔗:https://github.com/Shra2703/ToDo-List-using-JS
+	- live 🔗:https://shra2703.github.io/ToDo-List-using-JS/
+   
+
 > ### Minor Projects:
 
+- Calculator in JS 🧮:        
+	- repo 🔗:https://github.com/Shra2703/Calculator-using-javascript    
+	- live 🔗:https://shra2703.github.io/Calculator-using-javascript/
+
 - Animated Thermometer🌡:        
-	- repo 🔗: https://github.com/Shra2703/Animated-Thermometer-in-JS      
-	- live 🔗: https://shra2703.github.io/Animated-Thermometer-in-JS/
+	- repo 🔗:https://github.com/Shra2703/Animated-Thermometer-in-JS      
+	- live 🔗:https://shra2703.github.io/Animated-Thermometer-in-JS/
       
 - Increment Counter 🧮:
-	- repo 🔗: https://github.com/Shra2703/Live-Counter-using-JS
-	- live 🔗: https://shra2703.github.io/Live-Counter-using-JS/
+	- repo 🔗:https://github.com/Shra2703/Live-Counter-using-JS
+	- live 🔗:https://shra2703.github.io/Live-Counter-using-JS/
     
 - Tempreature Convertor🌡:
-	- repo 🔗: https://github.com/Shra2703/Temperature-Convertor-using-JS	
-	- live 🔗: https://shra2703.github.io/Temperature-Convertor-using-JS/
+	- repo 🔗:https://github.com/Shra2703/Temperature-Convertor-using-JS	
+	- live 🔗:https://shra2703.github.io/Temperature-Convertor-using-JS/
 
 - Random Quotes Genrator🔄:
 	- repo 🔗:https://github.com/Shra2703/Random-Quotes-Genrator-in-JS
