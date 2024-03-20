@@ -54,4 +54,8 @@
 - JS-Quotes-Generator:
 	- repo 🔗:https://github.com/Shra2703/Quotes-generator-using-JS
 	- live 🔗:https://shra2703.github.io/Quotes-generator-using-JS/
+
+- Bubble Game in JS:
+	- repo 🔗:https://github.com/Shra2703/Bubble-Game-in-JS
+	- live 🔗:https://shra2703.github.io/Bubble-Game-in-JS/
  
